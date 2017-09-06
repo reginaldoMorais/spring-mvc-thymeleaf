@@ -1,0 +1,7 @@
+# DIR
+.build/
+.gradle/
+.idea/
+
+# FILE
+
